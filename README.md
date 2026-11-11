@@ -10,3 +10,6 @@ Hyperspectral fluorescence imaging collects a full emission spectrum at every pi
 # Release
 The code files required for reproduction will be released shortly.
 
+# Contact
+For questions, please contact Jun Li (lijuncug@cug.edu.cn).
+
